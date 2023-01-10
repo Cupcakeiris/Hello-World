@@ -1,7 +1,6 @@
 # Alo-World-2
-Eh still noob in github and know a bit of coding in js, python, c# and java.
-I have made 2 mini games with Unity5, sadly Unity 2019 stopped working for no reason
+Eh still noob in github and know a bit of coding in js, python, c# and c++
 
-Currently making Angular site as school graduation project.
+Currently planning on developing cuul game on python (which is a final exam)
 
-Mega huge thanks to Resty for everything (:
+Mega huge thanks to old classmates for motivation (x
